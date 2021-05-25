@@ -1,0 +1,2 @@
+INSERT INTO note(date, group_id, status, title, type_id) VALUES ('15-03-2021', 1, false, 'SwiftUi', 1 );
+INSERT INTO note(date, status, title, type_id, user_id) VALUES ('15-03-2021',  false, 'pull up', 1, 2 );

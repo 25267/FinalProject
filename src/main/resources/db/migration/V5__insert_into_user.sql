@@ -1,0 +1,2 @@
+INSERT INTO i_user(group_id, password, username)VALUES (1, '$2a$10$vIxg3/448L10RYV20dr22eFaMzw3wu0YrJ/9EceVAA34J3DaJRieG', 'Zhanibek');
+INSERT INTO i_user( password, username) VALUES ('$2a$10$vIxg3/448L10RYV20dr22eFaMzw3wu0YrJ/9EceVAA34J3DaJRieG', 'User');
